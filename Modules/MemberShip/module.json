@@ -1,0 +1,11 @@
+{
+    "name": "MemberShip",
+    "alias": "membership",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MemberShip\\App\\Providers\\MemberShipServiceProvider"
+    ],
+    "files": []
+}

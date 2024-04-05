@@ -1,0 +1,9 @@
+{
+    "User": true,
+    "Category": true,
+    "Common": true,
+    "MemberShip": true,
+    "Settings": true,
+    "Companies": true,
+    "Invoices": true
+}
